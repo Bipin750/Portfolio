@@ -708,3 +708,6 @@ Home Section
 #car-racing{
     height: 315px;
 }
+.email{
+    text-transform: lowercase;
+}
